@@ -43,7 +43,7 @@ library(readxl)
 ```
 
 
- Here are a just few links and resources on readxl, the tidyverse and why take the bridge:
+ Here are a just few links and resources on readxl, the tidyverse and why take the bridge to R:
 
 - [readxl documentation & vignettes](https://github.com/tidyverse/readxl)
 - [tidyverse website](https://www.tidyverse.org/)
