@@ -7,20 +7,20 @@ I have become a regular user and fan of [readxl](http://readxl.tidyverse.org/), 
 
 **readxl is a bridge for many users**
 
-I have been in the data analysis business for awhile&mdash;mostly collecting and analyzing data to answer research questions in various topics in biology. A few years ago, I was exposed to the importane of machine readable data, I was introduced to cpncepts reproduceable and open science, and I started to learn R.my approach to anything data-related had a complete makeover. More than a makeover really,  a complete change&mdash;my work pre and post  overhaul 
+
 
 
 **readxl does one thing well**
-
-
+It can be challenging to navigate the world of R packages&mdash;finding a package to do what you want to do with your data, or deciding which package to use, especially if there are many packages that have similar functionality. I like that readxl does one thing, import .xls and .xlsx files, and does it well. Close your eyes and imagine an Excel file with many, many sheets, or with graphs and pivot tables embedded in a sheet with raw data (*we have all seen one*)&mdash;readxl has the functions to import even *that* Excel data into R. You can specify a sheet, by name or number, or a set of cells, and you can control how R deals with blank cells in an Excel file. All you need and no more.
 
 
 **readxl & Clippy**
-readxl has a great logo. Hex logos and stickers are fun and kind of a thing for R packages now. I love stickers&mdash;and the [readxl logo with Clippy's sad face](https://github.com/tidyverse/readxl/blob/master/tools/logo.png) makes me smile, everytime-I-see-it. I was a big Excel user in Clippy's time&mdash;[Clippy](https://en.wikipedia.org/wiki/Office_Assistant) was the Microsoft Office "intelligent" assistant (*cough cough*) in the late 1990's and early 2000s. While I never really understood the wide-spread animousity for poor Clippy, I also didn't even notice when the paperclip was finally pulled. I like readxl's homage to Clippy, I think the paperclip assistent deserves to be remembered.
+readxl has a great logo. Hex logos and stickers are fun and kind of a thing for R packages now. I love stickers&mdash;and the [readxl logo with the paperclip Clippy's sad face](https://github.com/tidyverse/readxl/blob/master/tools/logo.png) makes me smile, everytime-I-see-it. I was a big Excel user in Clippy's time&mdash;[Clippy](https://en.wikipedia.org/wiki/Office_Assistant) was the Microsoft Office "intelligent" assistant (*cough cough*) in the late 1990's and early 2000s. While I never really understood the wide-spread animousity for poor Clippy, I also didn't even notice when the paperclip was finally pulled. I like readxl's homage to Clippy, I think the paperclip assistant deserves to be remembered.
+
 
 ### readxl and the tidyverse
 
-Data import packages are sometimes easy to overlook when gushing about R packages in general&mdash;outshone by packages that help users really make data sing, like generating beautiful graphics using ggplot2 or turning super messy data into a tidy data frame using tidyr&mdash;both so satisfying. The readxl package, however, deserves some limelight in my opinion. It is an easy to use, reliable data import package for .xls and .xlsx files&mdash;creating a bridge to the tidyverse for new R users and many other data communities. 
+Data import packages are sometimes easy to overlook when gushing about R packages in general&mdash;outshone by packages that help users really make data *sing*, like generating beautiful graphics using ggplot2 or turning super messy data into a tidy data frame using tidyr&mdash;both so satisfying. The readxl package, however, deserves some limelight too, in my opinion. It is an easy to use, reliable data import package for .xls and .xlsx files&mdash;creating a bridge to the tidyverse for new R users and many other data communities. 
 
 The readxl package is part of the [tidyverse](https://www.tidyverse.org/), a set of R packages for doing data science&mdash;helping R users get, clean, analyze and visualize data with packages that are purposely designed to work nicely together and help users develop 'tidy' work flows.
 
