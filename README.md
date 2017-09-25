@@ -28,7 +28,6 @@ You can install the readxl package with the whole tidyverse suite:
 
 ```
 install.packages("tidyverse")  
-library(readxl)
 ```
 
 Or just the readxl package itself:
