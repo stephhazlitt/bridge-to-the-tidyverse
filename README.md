@@ -16,7 +16,7 @@ In a perfect world, in my opinion, we would blink and all raw, tabular data woul
 
 **readxl & Clippy**
 
-readxl has a great logo. Hex logos and stickers are fun and kind of a thing for R packages now. I love stickers&mdash;and the [readxl logo with the paperclip Clippy's sad face](https://github.com/tidyverse/readxl/blob/master/tools/logo.png) makes me smile, everytime-I-see-it. I was a big Excel user in Clippy's time&mdash;[Clippy](https://en.wikipedia.org/wiki/Office_Assistant) was the Microsoft Office "intelligent" assistant (*cough cough*) in the late 1990's and early 2000s. While I never really understood the wide-spread animousity for poor Clippy, I also didn't even notice when the paperclip was finally pulled. I like readxl's homage to Clippy, I think the paperclip assistant deserves to be remembered.
+readxl has a great logo. Hex logos and stickers are fun and kind of a thing for R packages now. I love stickers&mdash;and the [readxl logo with the paperclip Clippy's sad face](https://github.com/tidyverse/readxl/blob/master/tools/logo.png) makes me smile, everytime-I-see-it. I was a big Excel user in Clippy's time&mdash;[Clippy](https://en.wikipedia.org/wiki/Office_Assistant) was the Microsoft Office "intelligent" assistant (*cough cough*) in the late 1990's and early 2000s. While I never really understood the wide-spread animousity for poor Clippy, I also didn't even notice when the talking paperclip was gone. I like readxl's homage to Clippy, I think the paperclip assistant deserves to be remembered.
 
 
 ### readxl and the tidyverse
